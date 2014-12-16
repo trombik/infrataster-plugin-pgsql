@@ -1,4 +1,4 @@
 infrataster-plugin-pgsql
 ========================
 
-PgSQL plugin for Infrataster
+#PgSQL plugin for Infrataster
