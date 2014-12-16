@@ -1,6 +1,6 @@
 # infrataster-plugin-pgsql
 
-PgSQL plugin for [Infrataster]
+PgSQL plugin for [Infrataster](https://github.com/ryotarai/infrataster)
 
 ## Pre-requisite
 1. postgresql-libs and postgresql-devel should be installed
