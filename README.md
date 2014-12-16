@@ -8,7 +8,7 @@ PgSQL plugin for [Infrataster]
 ## Installation
 Install infrataster-plugin-pgsql by following command
    
-    #gem install infrataster-plugin-pgsql
+   `$ gem install infrataster-plugin-pgsql`
 
 Add this line to your Gemfile:
 

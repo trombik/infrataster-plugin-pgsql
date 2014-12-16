@@ -5,9 +5,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Sneha More"]
   spec.email         = ["snehamore204@gmail.com"]
   spec.summary       = %q{PgSQL plugin for Infrataster}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/SnehaM/infrataster-plugin-pgsql"
   spec.license	     = "MIT"
-  spec.files         = `find . -type f`.split("\n")
+  spec.files         = `git ls-files -z`.split("\x0")
   spec.require_paths = ["lib"]
 
   spec.add_runtime_dependency "infrataster", "~> 0.2.0"
