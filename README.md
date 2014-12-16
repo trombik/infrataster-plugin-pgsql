@@ -42,7 +42,7 @@ describe server(:dbtest) do
 end
 ```
 
-You can specify username and password by options passed to `Infrataster::Server.define`:
+You can specify username and password by options passed to `Infrataster::Server.define` in spec_helper.rb:
 
 ```ruby
 Infrataster::Server.define(
